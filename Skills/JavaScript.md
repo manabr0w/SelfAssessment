@@ -2,16 +2,16 @@
 
 - Language
   - Object:🖐️ used
-  - this
+  - this:👂 heard
   - arrow function
-  - async function
+  - async function:👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof:👂 heard
   - destructuring
   - generator
   - iterator:🖐️ used
