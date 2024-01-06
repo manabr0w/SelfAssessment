@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value:👂 heard
   - identifier
   - variable
   - constant
@@ -9,10 +9,10 @@
   - literal
   - expression
   - heap
-  - function
+  - function:👂 heard
   - procedure
-  - method
-  - class
+  - method:👂 heard
+  - class:👂 heard
   - prototype
   - event
   - type
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops:👂 heard
   - assignment
   - regular expression
   - interface
@@ -32,7 +32,7 @@
 - Functions
   - signature
   - argument
-  - parameter
+  - parameter:👂 heard
   - pure function
   - lambda expression
   - side effects
@@ -84,11 +84,11 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
+  - refactoring:🎓 known
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm:👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git:🎓 known
+  - github:🎓 known
