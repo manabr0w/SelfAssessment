@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object:👂 heard
+  - Object:🖐️ used
   - this
   - arrow function
   - async function
@@ -14,7 +14,7 @@
   - typeof
   - destructuring
   - generator
-  - iterator:👂 heard
+  - iterator:🖐️ used
   - async generator
   - async iterator
   - chaining
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void:👂 heard
+  - void:🖐️ used
   - yield
   - await
   - template literal
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if:👂 heard
-  - while:👂 heard
-  - do..while:👂 heard
-  - for:👂 heard
+  - if:🖐️ used
+  - while:🖐️ used
+  - do..while:🖐️ used
+  - for:🖐️ used
   - for..in
   - for..of
   - for await
   - throw
-  - break:👂 heard
+  - break:🖐️ used
   - continue
-  - import
+  - import:🖐️ used
   - export
   - label
   - try..catch
-  - switch
-  - class:👂 heard
+  - switch:🖐️ used
+  - class:🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration:👂 heard
+  - function declaration:🖐️ used
   - function expression
-  - return:👂 heard
+  - return:🖐️ used
   - default parameters
   - functional object:👂 heard
 - Data structures
-  - Array:👂 heard
+  - Array:🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null:👂 heard
+  - null:🖐️ used
   - Proxy
   - weak collections
   - timers
@@ -82,8 +82,8 @@
   - Date
   - BigInt
 - Infrastructure
-  - V8
+  - V8:👂 heard
   - Node.js:👂 heard
-  - npm
-  - prettier
+  - npm:👂 heard
+  - prettier:👂 heard
   - MDN
