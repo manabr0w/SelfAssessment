@@ -2,41 +2,42 @@
 
 - Language
   - Object:🖐️ used
-  - this:👂 heard
-  - arrow function
-  - async function:👂 heard
+
+  - this:🖐️ used
+  - arrow function:🖐️ used
+  - async function:🖐️ used
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof:👂 heard
+  - typeof:🖐️ used
   - destructuring
   - generator
   - iterator:🖐️ used
   - async generator
-  - async iterator
+  - async iterator:🖐️ used
   - chaining
   - optional chaining
   - IIFE
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters:🖐️ used
   - __proto__
   - prototype
   - equality operators
-  - logical operators
+  - logical operators:🖐️ used
   - bitwise operators
-  - ternary operator
+  - ternary operator:🖐️ used
   - void:🖐️ used
   - yield
-  - await
+  - await:🖐️ used
   - template literal
-  - strict mode:👂 heard
+  - strict mode:🖐️ used
   - delete
-  - in
+  - in:🖐️ used
   - super
   - Symbol
   - Reflect
@@ -45,31 +46,31 @@
   - while:🖐️ used
   - do..while:🖐️ used
   - for:🖐️ used
-  - for..in
-  - for..of
+  - for..in:🖐️ used
+  - for..of:🖐️ used
   - for await
-  - throw
+  - throw:🖐️ used
   - break:🖐️ used
   - continue
   - import:🖐️ used
-  - export
+  - export:🖐️ used
   - label
-  - try..catch
+  - try..catch:🖐️ used
   - switch:🖐️ used
   - class:🖐️ used
-  - new Error
+  - new Error:🖐️ used
   - with
 - Functions
   - function declaration:🖐️ used
-  - function expression
+  - function expression:🖐️ used
   - return:🖐️ used
   - default parameters
-  - functional object:👂 heard
-- Data structures
+  - functional object:🖐️ used
+  - - Data structures
   - Array:🖐️ used
   - mixin
   - extend
-  - typed arrays
+  - typed arrays:🖐️ used
   - Map
   - Set
   - undefined
@@ -77,13 +78,13 @@
   - Proxy
   - weak collections
   - timers
-  - EventEmitter
+  - EventEmitter:🖐️ used
   - RegExp
-  - Date
-  - BigInt
+  - Date:🖐️ used
+  - BigInt:🖐️ used
 - Infrastructure
-  - V8:👂 heard
-  - Node.js:👂 heard
-  - npm:👂 heard
-  - prettier:👂 heard
+  - V8:🖐️ used
+  - Node.js:🖐️ used
+  - npm:🖐️ used
+  - prettier:🖐️ used
   - MDN
