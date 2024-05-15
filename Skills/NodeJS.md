@@ -86,23 +86,23 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST
+  - REST: 👂 heard
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -114,29 +114,29 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 👂 heard
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 👂 heard
   - error.cause
   - error.code
   - error.message
@@ -145,14 +145,14 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
@@ -167,4 +167,4 @@
   - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization: 👂 heard

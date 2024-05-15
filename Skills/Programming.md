@@ -20,14 +20,14 @@
   - reference types
   - flag:🖐️ used
   - lexical scope
-  - code block
-  - conditions
+  - code block: 👂 heard
+  - conditions: 👂 heard
   - loops:🖐️ used
   - assignment
   - regular expression
-  - interface
+  - interface: 👂 heard
   - contract
-  - module
+  - module: 👂 heard
   - call stack
 - Functions
   - signature
@@ -44,9 +44,9 @@
   - callback
   - listener
   - compose
-  - pipe
+  - pipe: 👂 heard
   - memoize
-  - wrapper
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
@@ -61,26 +61,26 @@
   - object:🖐️ used
   - class:🖐️ used
   - collection
-  - set
+  - set: 👂 heard
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
+  - queue: 👂 heard
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 👂 heard
+  - graph: 👂 heard
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
-  - linter
+  - linter: 👂 heard
   - polyfill
   - debugger
   - garbage collection
@@ -89,18 +89,18 @@
   - antipatterns
   - paradigm
   - algorithm:🖐️ used
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - magic numbers: 👂 heard
+  - hardcode: 👂 heard
+  - complexity: 👂 heard
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
   - not invented here
-  - dead code
-  - unreachable code
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
   - duplicate code
   - exception
-  - return early
-  - unittest
+  - return early: 👂 heard
+  - unittest: 👂 heard
   - git:🖐️ used
   - github:🖐️ used
