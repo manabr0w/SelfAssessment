@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value:👂 heard
+  - value:🖐️ used
   - identifier
   - variable
   - constant
@@ -9,20 +9,20 @@
   - literal
   - expression
   - heap
-  - function:👂 heard
+  - function:🖐️ used
   - procedure
-  - method:👂 heard
-  - class:👂 heard
+  - method:🖐️ used
+  - class:🖐️ used
   - prototype
   - event
-  - type
+  - type:🖐️ used
   - primitive types
   - reference types
-  - flag
+  - flag:🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops:👂 heard
+  - loops:🖐️ used
   - assignment
   - regular expression
   - interface
@@ -32,7 +32,7 @@
 - Functions
   - signature
   - argument
-  - parameter:👂 heard
+  - parameter:🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array:🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object:🖐️ used
+  - class:🖐️ used
   - collection
   - set
   - hash table
@@ -84,11 +84,11 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring:🎓 known
+  - refactoring:🖐️ used
   - code review
   - antipatterns
   - paradigm
-  - algorithm:👂 heard
+  - algorithm:🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git:🎓 known
-  - github:🎓 known
+  - git:🖐️ used
+  - github:🖐️ used
