@@ -1,8 +1,7 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
   - Object:🖐️ used
-
   - this:🖐️ used
   - arrow function:🖐️ used
   - async function:🖐️ used
@@ -82,9 +81,49 @@
   - RegExp
   - Date:🖐️ used
   - BigInt:🖐️ used
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
+  - IIFE
+  - Async IIFE
+  - Getters and setters
+  - Equality operators
+  - Logical operators
+  - Logical Assignment
+  - Bitwise operators
+  - Ternary operator
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
+- Statements
+- Functions
+  - Arrow function
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+- Data structures
+  - Typed arrays
+  - Mixins
+- Standard classes and namespaces
+  - Timers
 - Infrastructure
   - V8:🖐️ used
   - Node.js:🖐️ used
   - npm:🖐️ used
   - prettier:🖐️ used
   - MDN
+  - TC39
