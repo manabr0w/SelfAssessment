@@ -1,22 +1,86 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - Object:🖐️ used
+  - this:🖐️ used
+  - arrow function:🖐️ used
+  - async function:🖐️ used
+  - call
+  - bind
+  - apply
+  - instanceof
+  - ...spread
+  - ...rest
+  - typeof:🖐️ used
+  - destructuring
+  - generator
+  - iterator:🖐️ used
+  - async generator
+  - async iterator:🖐️ used
+  - chaining
+  - optional chaining
+  - IIFE
+  - global
+  - globalThis
+  - window
+  - getters and setters:🖐️ used
+  - __proto__
+  - prototype
+  - equality operators
+  - logical operators:🖐️ used
+  - bitwise operators
+  - ternary operator:🖐️ used
+  - void:🖐️ used
+  - yield
+  - await:🖐️ used
+  - template literal
+  - strict mode:🖐️ used
+  - delete
+  - in:🖐️ used
+  - super
+  - Symbol
+  - Reflect
+- Statements
+  - if:🖐️ used
+  - while:🖐️ used
+  - do..while:🖐️ used
+  - for:🖐️ used
+  - for..in:🖐️ used
+  - for..of:🖐️ used
+  - for await
+  - throw:🖐️ used
+  - break:🖐️ used
+  - continue
+  - import:🖐️ used
+  - export:🖐️ used
+  - label
+  - try..catch:🖐️ used
+  - switch:🖐️ used
+  - class:🖐️ used
+  - new Error:🖐️ used
+  - with
+- Functions
+  - function declaration:🖐️ used
+  - function expression:🖐️ used
+  - return:🖐️ used
+  - default parameters
+  - functional object:🖐️ used
+  - - Data structures
+  - Array:🖐️ used
+  - mixin
+  - extend
+  - typed arrays:🖐️ used
+  - Map
+  - Set
+  - undefined
+  - null:🖐️ used
+  - Proxy
+  - weak collections
+  - timers
+  - EventEmitter:🖐️ used
+  - RegExp
+  - Date:🖐️ used
+  - BigInt:🖐️ used
   - Destructuring
   - Generators
   - Iterators
@@ -26,30 +90,15 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
   - Getters and setters
-  - `__proto__`
-  - `prototype`
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,25 +108,6 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
 - Functions
   - Arrow function
   - Async function
@@ -85,38 +115,15 @@
   - Function expression
   - Default parameters
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
   - Typed arrays
   - Mixins
-  - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8:🖐️ used
+  - Node.js:🖐️ used
+  - npm:🖐️ used
+  - prettier:🖐️ used
   - MDN
   - TC39
