@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Stateful and stateless servers:h
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI:u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,19 +67,19 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S):h
+  - TCP/SSL:h
+  - UDP:h
   - TLS
-  - Websocket
+  - Websocket:h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST:h
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS:h
+  - DDoS:h
   - XSS
   - Path traversal
   - CSRF
@@ -92,8 +92,8 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing:h
+  - CI/CD:h
   - Readable
   - Writable
   - Transform
@@ -102,12 +102,12 @@
   - Console
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer:h
+  - Repository:h
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD:h
   - DTO
 - Error handling and debugging
   - `Error`
