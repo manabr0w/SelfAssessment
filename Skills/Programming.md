@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax:h
   - Semantics
   - Abstraction
   - Paradigm
@@ -13,9 +13,9 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module:u
+  - Library:u
+  - Package:h
   - Component
   - Framework
   - Platform
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering:h
   - Decomposition
   - Control flow
   - Data flow
@@ -37,7 +37,7 @@
   - variable
   - constant
   - scalar
-  - literal
+  - literal:h
   - expression
   - heap
   - function:🖐️ used
@@ -109,25 +109,25 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler:h
   - transpiler
-  - linter
+  - linter:h
   - polyfill
   - debugger
   - garbage collection
   - refactoring:🖐️ used
-  - code review
-  - antipatterns
+  - code review:h
+  - antipatterns:h
   - paradigm
   - algorithm:🖐️ used
-  - magic numbers
-  - hardcode
+  - magic numbers:h
+  - hardcode:h
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti:u
   - silver bullet
   - not invented here
-  - dead code
+  - dead code:h
   - unreachable code
   - duplicate code
   - exception
