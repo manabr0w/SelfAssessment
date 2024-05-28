@@ -5,7 +5,7 @@
   - this:🖐️ used
   - arrow function:🖐️ used
   - async function:🖐️ used
-  - call
+  - call:u
   - bind
   - apply
   - instanceof
@@ -22,10 +22,10 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window:u
   - getters and setters:🖐️ used
   - __proto__
-  - prototype
+  - prototype:u
   - equality operators
   - logical operators:🖐️ used
   - bitwise operators
@@ -68,10 +68,10 @@
   - - Data structures
   - Array:🖐️ used
   - mixin
-  - extend
+  - extend:h
   - typed arrays:🖐️ used
-  - Map
-  - Set
+  - Map:h
+  - Set:h
   - undefined
   - null:🖐️ used
   - Proxy
@@ -82,10 +82,10 @@
   - Date:🖐️ used
   - BigInt:🖐️ used
   - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
+  - Generators:h
+  - Iterators:h
+  - Async generator:h
+  - Async iterator:h
   - Chaining
   - Optional chaining
   - IIFE
@@ -95,9 +95,9 @@
   - Logical operators
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator:u
   - Template literal
-  - Strict mode
+  - Strict mode:u
   - Hoisting
   - Property descriptors
   - Sealing properties
@@ -106,15 +106,15 @@
   - Instance class fields
   - Static class fields
   - Private class fields
-  - Private class methods
+  - Private class methods:h 
 - Statements
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Arrow function:u
+  - Async function:h
+  - Function declaration:u
+  - Function expression:u
+  - Default parameters:u
+  - Functional object:h
 - Data structures
   - Typed arrays
   - Mixins
@@ -125,5 +125,5 @@
   - Node.js:🖐️ used
   - npm:🖐️ used
   - prettier:🖐️ used
-  - MDN
+  - MDN:h
   - TC39
