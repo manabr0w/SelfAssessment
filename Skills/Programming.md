@@ -32,7 +32,7 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - value:🖐️ used
+  - value: 🖐️ used
   - identifier
   - variable
   - constant
@@ -40,20 +40,20 @@
   - literal:h
   - expression
   - heap
-  - function:🖐️ used
+  - function: 🖐️ used
   - procedure
-  - method:🖐️ used
-  - class:🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
   - event
-  - type:🖐️ used
+  - type: 🖐️ used
   - primitive types
   - reference types
-  - flag:🖐️ used
+  - flag: 🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops:🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -63,7 +63,7 @@
 - Functions
   - signature
   - argument
-  - parameter:🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -84,13 +84,12 @@
   - generator
   - coroutine
 - Data structures
-  - array:🖐️ used
+  - array: 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object:🖐️ used
-  - class:🖐️ used
+  - object: 🖐️ used
   - collection
   - set
   - hash table
@@ -115,11 +114,11 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring:🖐️ used
+  - refactoring: 🖐️ used
   - code review:h
   - antipatterns:h
   - paradigm
-  - algorithm:🖐️ used
+  - algorithm: 🖐️ used
   - magic numbers:h
   - hardcode:h
   - complexity
@@ -133,5 +132,5 @@
   - exception
   - return early
   - unittest
-  - git:🖐️ used
-  - github:🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used

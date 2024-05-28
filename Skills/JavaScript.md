@@ -1,86 +1,86 @@
 ## JavaScript
 
 - Language
-  - Object:🖐️ used
-  - this:🖐️ used
-  - arrow function:🖐️ used
-  - async function:🖐️ used
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
   - call:u
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof:🖐️ used
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator:🖐️ used
+  - iterator: 🖐️ used
   - async generator
-  - async iterator:🖐️ used
+  - async iterator: 🖐️ used
   - chaining
   - optional chaining
   - IIFE
   - global
   - globalThis
   - window:u
-  - getters and setters:🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype:u
   - equality operators
-  - logical operators:🖐️ used
+  - logical operators: 🖐️ used
   - bitwise operators
-  - ternary operator:🖐️ used
-  - void:🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
-  - await:🖐️ used
+  - await: 🖐️ used
   - template literal
-  - strict mode:🖐️ used
+  - strict mode: 🖐️ used
   - delete
-  - in:🖐️ used
+  - in: 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if:🖐️ used
-  - while:🖐️ used
-  - do..while:🖐️ used
-  - for:🖐️ used
-  - for..in:🖐️ used
-  - for..of:🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
-  - throw:🖐️ used
-  - break:🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
   - continue
-  - import:🖐️ used
-  - export:🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch:🖐️ used
-  - switch:🖐️ used
-  - class:🖐️ used
-  - new Error:🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with
 - Functions
-  - function declaration:🖐️ used
-  - function expression:🖐️ used
-  - return:🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
   - default parameters
-  - functional object:🖐️ used
+  - functional object: 🖐️ used
   - - Data structures
-  - Array:🖐️ used
+  - Array: 🖐️ used
   - mixin
   - extend:h
-  - typed arrays:🖐️ used
+  - typed arrays: 🖐️ used
   - Map:h
   - Set:h
   - undefined
-  - null:🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
-  - EventEmitter:🖐️ used
+  - EventEmitter: 🖐️ used
   - RegExp
-  - Date:🖐️ used
-  - BigInt:🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
   - Destructuring
   - Generators:h
   - Iterators:h
@@ -88,7 +88,6 @@
   - Async iterator:h
   - Chaining
   - Optional chaining
-  - IIFE
   - Async IIFE
   - Getters and setters
   - Equality operators
@@ -106,7 +105,7 @@
   - Instance class fields
   - Static class fields
   - Private class fields
-  - Private class methods:h 
+  - Private class methods:h
 - Statements
 - Functions
   - Arrow function:u
@@ -121,9 +120,9 @@
 - Standard classes and namespaces
   - Timers
 - Infrastructure
-  - V8:🖐️ used
-  - Node.js:🖐️ used
-  - npm:🖐️ used
-  - prettier:🖐️ used
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN:h
   - TC39
