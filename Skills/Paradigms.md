@@ -11,9 +11,9 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming:h
+  - Parallel programming:h
+  - Reactive programming:h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,7 +27,7 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor:h
   - Operator `new`
   - Static method
   - Method
