@@ -8,7 +8,6 @@
   - Thread pool
   - Pattern Reactor
   - CAS operations
-  - epoll
   - kqueue
   - Completion ports
   - Event ports
