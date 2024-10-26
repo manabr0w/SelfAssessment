@@ -1,23 +1,23 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types:u
   - Performance tuning
-  - Migrations
+  - Migrations:u
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
+  - Graph databases:h
+  - Object databases:h
+  - Column databases:h
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
   - Inverted index
-  - Data control language (DCL)
+  - Data control language (DCL):h
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
@@ -25,25 +25,25 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
+  - Primary keys:h
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions:h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT`:u
   - `INSERT`
   - `UPDATE`
-  - `DELETE`
+  - `DELETE`:u
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
-  - `GROUP BY`
+  - `GROUP BY`:u
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -53,16 +53,16 @@
   - `UNION`
   - `DISTINCT`
   - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `LIKE`:u
+  - `IN`:u
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`:u
   - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `DROP TABLE`:u
+  - `PRIMARY KEY`:u
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT`
+  - `DEFAULT`:u
   - `INDEX`
   - `UNIQUE`
   - `GRANT`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL:u
+  - Oracle:h
+  - MySQL:h
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB:h
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite:h
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Big data:h
+  - Data analysis:h
+  - AI tools:h
   - Cloud databases
   - Data Visualization

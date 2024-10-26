@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax:h
   - Semantics
   - Abstraction
   - Paradigm
@@ -13,9 +13,9 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module:u
+  - Library:u
+  - Package:h
   - Component
   - Framework
   - Platform
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering:h
   - Decomposition
   - Control flow
   - Data flow
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - value:🖐️ used
+  - value: 🖐️ used
   - identifier
   - variable
   - constant
   - scalar
-  - literal
+  - literal:h
   - expression
   - heap
-  - function:🖐️ used
+  - function: 🖐️ used
   - procedure
-  - method:🖐️ used
-  - class:🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
   - event
-  - type:🖐️ used
+  - type: 🖐️ used
   - primitive types
   - reference types
-  - flag:🖐️ used
+  - flag: 🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops:🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -63,7 +63,7 @@
 - Functions
   - signature
   - argument
-  - parameter:🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -84,13 +84,12 @@
   - generator
   - coroutine
 - Data structures
-  - array:🖐️ used
+  - array: 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object:🖐️ used
-  - class:🖐️ used
+  - object: 🖐️ used
   - collection
   - set
   - hash table
@@ -109,29 +108,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler:h
   - transpiler
-  - linter
+  - linter:h
   - polyfill
   - debugger
   - garbage collection
-  - refactoring:🖐️ used
-  - code review
-  - antipatterns
+  - refactoring: 🖐️ used
+  - code review:h
+  - antipatterns:h
   - paradigm
-  - algorithm:🖐️ used
-  - magic numbers
-  - hardcode
+  - algorithm: 🖐️ used
+  - magic numbers:h
+  - hardcode:h
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti:u
   - silver bullet
   - not invented here
-  - dead code
+  - dead code:h
   - unreachable code
   - duplicate code
   - exception
   - return early
   - unittest
-  - git:🖐️ used
-  - github:🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
